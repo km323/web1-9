@@ -14,7 +14,7 @@ body{
   padding:0 40px;
   font-size:30px;
 }
-.drop_shadown{text-shadow:2px 2px3px gray;}
+.drop_shadown{text-shadow:2px 2px 3px gray;}
 .grow{color:white;
   text-shadow:0px 0px 5px gray;}
 .bebel{color:silver;
@@ -65,7 +65,7 @@ body{
   0px 0px 0px 4px black inset,
   2px 2px 10px 0px black;padding:5px;margin:20px;}
 .button{
-  display:black;
+  display:block;
   margin:5px;
   padding:10px;
   width:200px;
